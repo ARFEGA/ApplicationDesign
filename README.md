@@ -2,7 +2,7 @@
 
 El fichero excede del tamaño permitido por github, por lo que está en icloud de Sketch:
 
-[https://sketch.cloud/s/MerG3]()
+[https://s3-eu-west-1.amazonaws.com/keepcodingpracticas/PracticaDisen%CC%83o.sketch]()
 
 Para ver le diseño en Marvel:
 
