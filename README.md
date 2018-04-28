@@ -3,6 +3,7 @@
 El fichero excede del tamaño permitido por github, por lo que está en icloud de Sketch:
 
 [https://s3-eu-west-1.amazonaws.com/keepcodingpracticas/PracticaDisen%CC%83o.sketch]()
+[https://drive.google.com/open?id=1epY1Bfn6LjKVJm8fFyi_YlqLk-pwfgAH]()
 
 Para ver le diseño en Marvel:
 
