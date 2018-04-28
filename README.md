@@ -1,6 +1,6 @@
 ## Practica DISEÑO APPS
 
-El fichero excede del tamaño permitido por github, por lo que está en icloud de Sketch:
+El fichero excede del tamaño permitido por github, por lo que está en cualquiera de estos dos links:
 
 [https://s3-eu-west-1.amazonaws.com/keepcodingpracticas/PracticaDisen%CC%83o.sketch]()
 [https://drive.google.com/open?id=1epY1Bfn6LjKVJm8fFyi_YlqLk-pwfgAH]()
